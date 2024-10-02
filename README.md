@@ -1,2 +1,5 @@
 # Snake-Game
-Snake Game I made while learning Python
+Snake game I made while learning Python.
+
+## Preview
+![Game Demo](./public/Demo.gif)
